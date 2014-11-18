@@ -9,3 +9,7 @@ body {
   padding-bottom: 25px;
   background-color: #fff;
 }
+
+.book-caption {
+	font-weight: bold;
+}
